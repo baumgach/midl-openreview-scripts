@@ -1,0 +1,7 @@
+.idea
+*.pyc
+*.swp
+.vscode
+__pycache__
+
+*.csv
